@@ -55,14 +55,16 @@ I help businesses reduce guesswork by converting messy data into clear, actionab
 
 ## 📊 Featured Projects
 
-### 🔹 Superstore Sales Dashboard
-> End-to-end sales analysis on 9,994 rows of US retail data
+### 🔹 Sales Performance Dashboard
+> End-to-end sales analysis on 5,901 orders from the SuperStore dataset (2019–2021)
 
-- Merged 3 datasets using Power Query for a unified data model
-- Built interactive dashboard with KPI cards, slicers, and drill-throughs
-- Identified top-performing regions, categories, and customer segments
-- **Tools:** Power BI · Excel · Power Query · DAX
-- 🔗 [View Project](https://github.com/Pranjalwaim/Superstore-Sales-Dashboard)
+- Analyzed sales across 3 categories, 4 regions, and 3 customer segments
+- Built KPI cards for Total Revenue, Total Profit, Profit Margin %, and Total Orders
+- Identified that **Office Supplies** leads revenue at 41.11% and **West region** leads in profit
+- Revealed Q4 as peak sales period every year — especially November and December
+- Used DAX time intelligence: YoY comparison with SAMEPERIODLASTYEAR
+- **Tools:** Power BI · DAX · Power Query
+- 🔗 [View Project](https://github.com/Pranjalwaim/Syntecxhub_Sales_Performance_Dashboard)
 
 ---
 
@@ -74,13 +76,19 @@ I help businesses reduce guesswork by converting messy data into clear, actionab
 - Students who completed test prep scored **+8 points higher** on average (66 vs 58)
 - Segmented students into performance bands: **64% Average, 24% Below Average, 12% Merit**
 - Built interactive Power BI dashboard with slicers for Gender, Test Prep, and Parental Education
-- **Tools:** Power BI · DAX · Excel · EDA
+- **Tools:** Power BI · DAX · Power Query · Excel
+- 🔗 [View Project](https://github.com/Pranjalwaim/Syntecxhub_Student_Performance_Analysis)
 
 ---
 
-### 🔹 Portfolio Website *(coming soon)*
-> Personal portfolio to showcase projects, skills, and professional journey — currently in progress.
-- **Tools:** React · JavaScript · CSS
+### 🔹 Superstore Sales Dashboard
+> Multi-dataset sales analysis built on 9,994 rows of US retail data
+
+- Merged 3 datasets using Power Query for a unified data model
+- Built interactive dashboard with KPI cards, slicers, and drill-throughs
+- Identified top-performing regions, categories, and customer segments
+- **Tools:** Power BI · Excel · Power Query · DAX
+- 🔗 [View Project](https://github.com/Pranjalwaim/Superstore-Sales-Dashboard)
 
 ---
 
