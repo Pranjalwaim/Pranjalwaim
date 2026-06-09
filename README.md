@@ -1,41 +1,105 @@
-# Hi there, I'm Pranjal Waim! 👋
+<div align="center">
 
-## 👨‍💻 Aspiring Data Analyst
+# Hi there, I'm Pranjal Waim 👋
 
-I'm a Computer Science Engineer passionate about 
-turning raw data into meaningful business insights.
+**Data Analyst · Power BI · SQL · Python**
+
+*B.Tech CSE '25 · Turning raw data into business decisions*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalwaim)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pranjalwaim)
+![Profile Views](https://komarev.com/ghpvc/?username=Pranjalwaim&color=0077B5&style=flat)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I help businesses reduce guesswork by converting messy data into clear, actionable dashboards — specialising in Power BI and SQL. Currently interning at Syntecxhub, I work across the full analytics stack from data cleaning in Python to building dashboards that drive real decisions.
+
+- 🏢 Currently interning as a **Data Analyst** at **Syntecxhub**
+- 🎯 Targeting full-time **Data Analyst roles** in **Mumbai / Pune**
+- 📍 Based in Maharashtra, India
+- 🚀 Long-term goal: transition into **Data Science**
+- 💡 Believer in data-driven decision making
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Data Analysis & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Languages & Databases**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+**Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+
+**Tools**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
 ---
 
-## 📊 Projects
+## 📊 Featured Projects
 
 ### 🔹 Superstore Sales Dashboard
-- Analyzed 9,994 rows of US retail sales data
-- Merged 3 datasets using Power Query
-- Built interactive dashboard with KPI cards & slicers
-- **Tools:** Excel | Power Query | Pivot Tables
+> End-to-end sales analysis on 9,994 rows of US retail data
+
+- Merged 3 datasets using Power Query for a unified data model
+- Built interactive dashboard with KPI cards, slicers, and drill-throughs
+- Identified top-performing regions, categories, and customer segments
+- **Tools:** Power BI · Excel · Power Query · DAX
 - 🔗 [View Project](https://github.com/Pranjalwaim/Superstore-Sales-Dashboard)
 
 ---
 
-## 📈 Currently Learning
-- SQL for Data Analysis
-- Power BI Dashboard Development
-- Python for Data Analytics
+### 🔹 Student Performance Analysis
+> EDA and interactive dashboard on 100 students across 8 variables
+
+- Analyzed scores, gender, ethnicity, parental education, and test preparation data
+- Achieved **100% pass rate** across the dataset with an overall avg score of 61.18
+- Students who completed test prep scored **+8 points higher** on average (66 vs 58)
+- Segmented students into performance bands: **64% Average, 24% Below Average, 12% Merit**
+- Built interactive Power BI dashboard with slicers for Gender, Test Prep, and Parental Education
+- **Tools:** Power BI · DAX · Excel · EDA
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalwaim)
+### 🔹 Portfolio Website *(coming soon)*
+> Personal portfolio to showcase projects, skills, and professional journey — currently in progress.
+- **Tools:** React · JavaScript · CSS
 
 ---
 
-⭐ *"Data is the new oil — I help businesses refine it into insights"*
+## 📈 Currently Improving
+
+- 🔢 Advanced SQL for complex analytical queries
+- 🐍 Python for deeper statistical analysis
+- 📊 Power BI advanced features (DAX, Power Query M)
+- 🤖 Exploring the Data Science learning path
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalwaim)
+[![GitHub](https://img.shields.io/badge/See_My_Work-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pranjalwaim)
+
+---
+
+<div align="center">
+  <i>"Data is not just numbers — it's the story every business needs to hear."</i>
+</div>
