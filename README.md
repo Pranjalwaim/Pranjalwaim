@@ -58,6 +58,8 @@ I help businesses reduce guesswork by converting messy data into clear, actionab
 ---
 
 ### 🔹 Website Traffic Analysis
+> End-to-end traffic analysis on ~2,000 web sessions from the Amazon Web Traffic dataset (2019–2023)
+
 - Analyzed ~2,000 web session records (2019–2023) from the Amazon Web Traffic dataset
 - Built a 4-page interactive Power BI dashboard with DAX measures (Overview, Traffic Sources, Audience Insights, Page Performance)
 - Key findings: Mobile drives 62.7% of traffic; social media leads new user acquisition (~190–200K); /contact page has highest traffic (459,904 views) but also highest bounce rate (20.89%)
