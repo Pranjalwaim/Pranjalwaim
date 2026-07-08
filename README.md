@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Pranjalwaim/Pranjalwaim/main/banner.png)
+[![Banner](https://raw.githubusercontent.com/Pranjalwaim/Pranjalwaim/main/banner.png)](https://linkedin.com/in/pranjalwaim)
 
 <div align="center">
 
@@ -124,5 +124,5 @@ I help businesses reduce guesswork by converting messy data into clear, actionab
 ---
 
 <div align="center">
-  <i>"Data is not just numbers — it's the story every business needs to hear."</i>
+  <i>"Open to Data Analyst roles in Mumbai, Pune, Bengaluru — let's connect if you're hiring."</i>
 </div>
