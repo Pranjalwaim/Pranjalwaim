@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Pranjalwaim/Pranjalwaim/main/banner.png)
+
 <div align="center">
 
 # Hi there, I'm Pranjal Waim 👋
