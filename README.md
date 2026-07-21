@@ -1,128 +1,109 @@
-[![Banner](https://raw.githubusercontent.com/Pranjalwaim/Pranjalwaim/main/banner.png)](https://linkedin.com/in/pranjalwaim)
-
 <div align="center">
 
-# Hi there, I'm Pranjal Waim 👋
+<img src="https://raw.githubusercontent.com/Pranjalwaim/Pranjalwaim/main/banner.svg" width="100%" alt="Pranjal Waim banner"/>
 
-**Data Analyst · Power BI · SQL · Python**
+<br/>
 
-*B.Tech CSE '25 · Turning raw data into business decisions*
+<a href="https://www.linkedin.com/in/pranjalwaim">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:waimpranjal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Pranjalwaim">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalwaim)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pranjalwaim)
-![Profile Views](https://komarev.com/ghpvc/?username=Pranjalwaim&color=0077B5&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Pranjalwaim&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I help businesses reduce guesswork by converting messy data into clear, actionable dashboards — specialising in Power BI and SQL. Currently interning at Syntecxhub, I work across the full analytics stack from data cleaning in Python to building dashboards that drive real decisions.
+> Data Analyst who turns messy spreadsheets into dashboards people actually use.
 
-- 🏢 Currently interning as a **Data Analyst** at **Syntecxhub**
-- 🎯 Targeting full-time **Data Analyst roles** in **Mumbai / Pune**
-- 📍 Based in Maharashtra, India
+- 🎓 2025 B.Tech CSE graduate — MIT College, Chh. Sambhajinagar
+- 💼 Completed a Remote Data Analyst internship at **Syntecxhub**
+- 🎯 Targeting full-time **Data Analyst** roles in **Mumbai / Pune**
 - 🚀 Long-term goal: transition into **Data Science**
-- 💡 Believer in data-driven decision making
+- 🌱 Currently studying for **PL-300 (Power BI Data Analyst Associate)**
+- 📫 waimpranjal@gmail.com
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-**Data Analysis & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-c084fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+<br/>
 
-**Languages & Databases**
+## 📈 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+| Project | Highlights | Tools |
+|---|---|---|
+| 🔹 [**Website Traffic Analysis**](https://github.com/Pranjalwaim/Syntecxhub_Website_Traffic_Analysis) | ~2,000 sessions analyzed · Mobile drives 62.7% of traffic · 4-page Power BI dashboard | Python · Power BI |
+| 🔹 [**Sales Performance Dashboard**](https://github.com/Pranjalwaim/Syntecxhub_Sales_Performance_Dashboard) | 5,901 orders · Office Supplies leads revenue (41.11%) · YoY DAX time intelligence | Power BI · DAX |
+| 🔹 [**Student Performance Analysis**](https://github.com/Pranjalwaim/Syntecxhub_Student_Performance_Analysis) | 100 students · 100% pass rate · Test-prep students scored +8 pts higher | Power BI · Excel |
+| 🔹 [**Superstore Sales Dashboard**](https://github.com/Pranjalwaim/Superstore-Sales-Dashboard) | 9,994 rows · 3 merged datasets · KPI cards + drill-throughs | Power BI · Power Query |
 
-**Libraries**
+<br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+## 📊 GitHub Stats & Graphs
 
-**Tools**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranjalwaim&show_icons=true&theme=radical&hide_border=true&bg_color=0d0117&title_color=f472b6&icon_color=c084fc&text_color=e5e7eb" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalwaim&layout=compact&theme=radical&hide_border=true&bg_color=0d0117&title_color=f472b6&text_color=e5e7eb" />
+</p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalwaim&theme=radical&hide_border=true&background=0d0117&stroke=c084fc&ring=f472b6&fire=f472b6&currStreakLabel=f472b6" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalwaim&theme=react-dark&bg_color=0d0117&color=f472b6&line=c084fc&point=e5e7eb&hide_border=true" />
+</p>
 
-## 📊 Featured Projects
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranjalwaim&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</p>
 
----
+<br/>
 
-### 🔹 Website Traffic Analysis
-> End-to-end traffic analysis on ~2,000 web sessions from the Amazon Web Traffic dataset (2019–2023)
-
-- Analyzed ~2,000 web session records (2019–2023) from the Amazon Web Traffic dataset
-- Built a 4-page interactive Power BI dashboard with DAX measures (Overview, Traffic Sources, Audience Insights, Page Performance)
-- Key findings: Mobile drives 62.7% of traffic; social media leads new user acquisition (~190–200K); /contact page has highest traffic (459,904 views) but also highest bounce rate (20.89%)
-- **Tools:** Python (Pandas) | Power BI | Google Colab
-- 🔗 [View Project](https://github.com/Pranjalwaim/Syntecxhub_Website_Traffic_Analysis)
-
----
-
-### 🔹 Sales Performance Dashboard
-> End-to-end sales analysis on 5,901 orders from the SuperStore dataset (2019–2021)
-
-- Analyzed sales across 3 categories, 4 regions, and 3 customer segments
-- Built KPI cards for Total Revenue, Total Profit, Profit Margin %, and Total Orders
-- Identified that **Office Supplies** leads revenue at 41.11% and **West region** leads in profit
-- Revealed Q4 as peak sales period every year — especially November and December
-- Used DAX time intelligence: YoY comparison with SAMEPERIODLASTYEAR
-- **Tools:** Power BI · DAX · Power Query
-- 🔗 [View Project](https://github.com/Pranjalwaim/Syntecxhub_Sales_Performance_Dashboard)
-
----
-
-### 🔹 Student Performance Analysis
-> EDA and interactive dashboard on 100 students across 8 variables
-
-- Analyzed scores, gender, ethnicity, parental education, and test preparation data
-- Achieved **100% pass rate** across the dataset with an overall avg score of 61.18
-- Students who completed test prep scored **+8 points higher** on average (66 vs 58)
-- Segmented students into performance bands: **64% Average, 24% Below Average, 12% Merit**
-- Built interactive Power BI dashboard with slicers for Gender, Test Prep, and Parental Education
-- **Tools:** Power BI · DAX · Power Query · Excel
-- 🔗 [View Project](https://github.com/Pranjalwaim/Syntecxhub_Student_Performance_Analysis)
-
----
-
-### 🔹 Superstore Sales Dashboard
-> Multi-dataset sales analysis built on 9,994 rows of US retail data
-
-- Merged 3 datasets using Power Query for a unified data model
-- Built interactive dashboard with KPI cards, slicers, and drill-throughs
-- Identified top-performing regions, categories, and customer segments
-- **Tools:** Power BI · Excel · Power Query · DAX
-- 🔗 [View Project](https://github.com/Pranjalwaim/Superstore-Sales-Dashboard)
-
----
-
-## 📈 Currently Improving
+## 📚 Currently Improving
 
 - 🔢 Advanced SQL for complex analytical queries
 - 🐍 Python for deeper statistical analysis
 - 📊 Power BI advanced features (DAX, Power Query M)
 - 🤖 Exploring the Data Science learning path
 
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalwaim)
-[![GitHub](https://img.shields.io/badge/See_My_Work-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pranjalwaim)
-
----
+<br/>
 
 <div align="center">
-  <i>"Open to Data Analyst roles in Mumbai, Pune, Bengaluru — let's connect if you're hiring."</i>
+
+## 📬 Let's Connect
+
+<a href="mailto:waimpranjal@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Pranjalwaim">
+  <img src="https://img.shields.io/badge/GITHUB-c084fc?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/pranjalwaim">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<i>"Open to Data Analyst roles in Mumbai, Pune, Bengaluru — let's connect if you're hiring."</i> 💜
+
 </div>
